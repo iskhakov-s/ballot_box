@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747052199218",
+    "project_id": "ballot-cb8e0",
+    "storage_bucket": "ballot-cb8e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747052199218:android:50f3e10a5d1e32e4ecfb2b",
+        "android_client_info": {
+          "package_name": "com.example.ballot_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747052199218-b7j83op6piio22arg7opn6g7aeofl4ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Rh2KSon8LFOEaTbzBenUXWooo2ijKvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747052199218-b7j83op6piio22arg7opn6g7aeofl4ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
